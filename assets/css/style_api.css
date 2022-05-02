@@ -1,20 +1,20 @@
 @font-face {
     font-family: pokefont;
     src: url(../pokefonts/Pokemon.ttf);
-  }
+}
 
-.pokecard{
+.pokecard {
     width: 18rem;
     height: 24rem;
 }
 
-.pokecard div img{
+.pokecard div img {
     object-fit: scale-down;
     width: 15rem;
     height: 18rem;
 }
 
-.fontpoke{
+.fontpoke {
     font-family: pokefont;
     letter-spacing: 5px;
     -webkit-text-stroke: 1px #356abc;
@@ -26,7 +26,9 @@
     height: 100%;
 }
 
-.modalstats div img{
+.modalstats div img {
     width: 12rem;
     height: 16rem;
+    object-fit: scale-down;
+    object-position: center;
 }

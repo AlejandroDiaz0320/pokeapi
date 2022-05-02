@@ -8,7 +8,7 @@ session_start();
 <head>
     <meta charset="UTF-8">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
-    <title>Aegis - Admin Dashboard Template</title>
+    <title>Pokedex - Admin Dashboard Template</title>
     <link rel="stylesheet" href="assets/css/app.min.css">
     <link rel="stylesheet" href="assets/bundles/jqvmap/dist/jqvmap.min.css">
     <link rel="stylesheet" href="assets/bundles/weather-icon/css/weather-icons.min.css">
@@ -141,10 +141,8 @@ session_start();
 
 
     <div class="modal fade bd-example-modal-lg aa" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
-
         <div class="modal-dialog modal-lg">
             <div class="modal-content" >
-
             </div>
         </div>
     </div>
